@@ -1,3 +1,4 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/roberthardy/sub.git
+	branch = f1
